@@ -2,19 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./writeups.html).
+[Welcome to Meta SouceCode](./writeups.html). **欢迎来到** _元_ `代码`
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Meta
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## Source Code
 
 > This is a blockquote following a header.
 >

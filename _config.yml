@@ -1,23 +1,23 @@
-title: Hacker Plus
-author: CaptainIRS
-description: The Hacker Plus Theme
+title: Meta SouceCode
+author: LibreUniverse
+description: Meta SouceCode
 google_analytics:
 google_site_verification_content: 
-disqus_forum_shortname: captainirs-github-io
+disqus_forum_shortname: librefoundry-github-io
 
 #Usernames and badges
 htb_badge_no:
 thm_badge_no:
 show_thm_htb_badges_in_nav: false
-github_username: CaptainIRS
+github_username: LibreFoundry
 gitlab:
 medium:
 stackoverflow:
 hacker_news:
-linkedin: rinish-sam
+linkedin: rinish
 twitch:
 youtube:
-twitter: CaptainIRS
+twitter: google
 facebook:
 instagram:
 reddit:
