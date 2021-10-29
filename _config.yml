@@ -8,16 +8,16 @@ disqus_forum_shortname: librefoundry-github-io
 #Usernames and badges
 htb_badge_no:
 thm_badge_no:
-show_thm_htb_badges_in_nav: false
-github_username: LibreFoundry
+show_thm_htb_badges_in_nav: true
+github_username: 
 gitlab:
 medium:
 stackoverflow:
 hacker_news:
-linkedin: rinish
+linkedin:
 twitch:
 youtube:
-twitter: google
+twitter:
 facebook:
 instagram:
 reddit:

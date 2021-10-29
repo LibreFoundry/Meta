@@ -3,18 +3,16 @@ layout: default
 ---
 
 
-[Welcome to Meta SouceCode](./writeups.html). **欢迎来到** _元_ `代码`
+**Welcome to** [Meta SouceCode](./writeups.html).  _元_`代码`
 
 
-# Meta
-
-## Source Code
+# Meta Souce Code
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Code Blocks
 
 ```js
 // Javascript code with syntax highlighting.
