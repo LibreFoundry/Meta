@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-**Welcome to** [Meta SouceCode](./writeups.html).  _元_ `代码`
+**Welcome to** [Meta SourceCode](./writeups.html).  _元_ `代码`
 
 
-# Meta Souce Code
+# Meta Source Code
 
-> 元 代码 MetaSouceCode.com 域名出售.
+> 元 代码 MetaSourceCode.com 域名出售.
 >
 > 有意请联系 base64 -d "bWFua0Bkci5jb20".
 
