@@ -3,14 +3,14 @@ layout: default
 ---
 
 
-**Welcome to** [Meta SouceCode](./writeups.html).  _元_`代码`
+**Welcome to** [Meta SouceCode](./writeups.html).  _元_ `代码`
 
 
 # Meta Souce Code
 
-> This is a blockquote following a header.
+> 元 代码 MetaSouceCode.com 域名出售.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 有意请联系 base64 -d "bWFua0Bkci5jb20".
 
 ### Code Blocks
 
@@ -90,35 +90,22 @@ void registerPlugins(PluginRegistry registry) {
 
 *   Item foo
 *   Item bar
-*   Item baz
-*   Item zip
+
 
 ### And an ordered list:
 
 1.  Item one
 1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
 - level 1 item
   - level 2 item
-  - level 2 item
-    - level 3 item
     - level 3 item
 - level 1 item
   - level 2 item
-  - level 2 item
-  - level 2 item
 - level 1 item
   - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
